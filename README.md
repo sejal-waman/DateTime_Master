@@ -26,9 +26,7 @@ The **DateTime** project is a Java-based application that demonstrates the handl
 ### Steps to Setup:
 ### 1. Clone the repository or download the project files.
    
-### 2. Create a MySQL database and a table named `developer_date` with the following structure:
-
-```sql
+### 2. Create a MySQL database and a table named `developer_date` with the following structure: 
 CREATE TABLE developer_date (
     id INT PRIMARY KEY,
     date DATE
